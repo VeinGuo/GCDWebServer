@@ -1233,6 +1233,7 @@
 				PRODUCT_NAME = GCDWebServers;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				VALID_ARCHS = "$(ARCHS_STANDARD)";
 			};
 			name = Debug;
 		};
@@ -1249,6 +1250,7 @@
 				PRODUCT_NAME = GCDWebServers;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				VALID_ARCHS = "$(ARCHS_STANDARD)";
 			};
 			name = Release;
 		};
